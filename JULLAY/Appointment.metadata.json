@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"JULLAY.Appointment"}],"uuid":"6d66bcf5704341dca6b193f8db6ce5d3"}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"JULLAY.Sequence"}],"uuid":"101fa000426e4f86b4c54f638693eedc"}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"JULLAY.CMI_DATA"}],"uuid":"a8c2b496db304f4480d0214c2eb2236c"}
